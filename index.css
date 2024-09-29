@@ -151,3 +151,26 @@ header li button {
   background-color: red;
   background-repeat: no-repeat;
 }
+
+#app-booking {
+  height: 70vh;
+  width: 90%;
+  margin-left: 5%;
+  border-radius: 15px;
+  background-image: url("https://s3-alpha-sig.figma.com/img/0279/eb6d/3eb3a2e3a0c32d53f9e99dc6336e4021?Expires=1728259200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=QCsGW-rRweyOC5e3byKUgOqVBcOb2tGHJ0-XrloUSN4ilxgewfx5ij3f6~Jy3PN0EiXPSnUI6UdhnE2FoLXmvzyTRkqGJrdcEMV3fbahyvK~rlPJqiU8fsxeDNSt4-Dn1o8PibO6j4Hnj-L23IV4DSF7qV9ghmIzd7g7NAz9aFXcsjlbJre0YSX5bxG7JEg9b7ng5Y6qXErzAJNOPSKlzjWRUilC3DZq3eBITmNyZ5bWrvTIb75AUlc7qMseN065LYL4iCbE4g6Yni6NGp42vWxsc2DGoyM2bub2FjCcw1DFHfzxgCg1c71ALdZovtuq1W3kPmSndpz8wlqqxnlkUg__");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#app-booking div div p:first-child {
+  font-size: 39px;
+  font-weight: 700;
+}
+#app-booking div div p:nth-child(2) {
+  font-size: 14px;
+  font-weight: 400;
+}
+#app-booking p:last-child{
+  font-size: 17px;
+  font-weight: 400;
+}
