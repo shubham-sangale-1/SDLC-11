@@ -1,4 +1,41 @@
 * {
   margin: 0px;
   padding: 0px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header {
+  width: 80%;
+  margin-left: 10%;
+  padding: 2px;
+}
+main {
+  background-image: url(public/Section.png);
+  height: 90vh;
+  width: 100%;
+  background-size: cover;
+}
+main h1 {
+  padding-top: 99px;
+  margin-top: 80px;
+}
+
+#header-form {
+  color: black;
+  width: 70%;
+  margin-top: 40px;
+  margin-left: 15%;
+  padding: 8px;
+  border-radius: 10px;
+  background-color: white;
+}
+#header-form span {
+  font-size: 40px;
+}
+header li {
+  margin-top: 21px;
+}
+
+header li button {
+  margin-top: -4px;
 }
