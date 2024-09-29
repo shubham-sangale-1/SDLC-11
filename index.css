@@ -40,44 +40,77 @@ header li button {
   margin-top: -4px;
 }
 
-#why-choose-us{
+#why-choose-us {
   margin-top: 88px;
   width: 80%;
   margin-left: 10%;
 }
-#why-choose-us h3{
+#why-choose-us h3 {
   font-size: 17px;
   font-weight: 500;
 }
-#why-choose-us p{
+#why-choose-us p {
   font-size: 14px;
-  font-weight: 400  ;
+  font-weight: 400;
 }
 
-#trending{
+#trending {
   width: 80%;
   margin-left: 10%;
   margin-top: 88px;
 }
-.col img{
+.col img {
   margin-top: 10px;
   width: 120px;
 }
-.col{
+.col {
   width: 30px;
   margin: 5px;
 }
 
-.col h3{
+.col h3 {
   text-align: center;
   margin-top: 5px;
   font-size: 15px;
   font-weight: 500;
   margin-left: 8px;
 }
-.col p{
+.col p {
   font-size: 13px;
   font-weight: 400;
   text-align: center;
   margin-left: 8px;
+}
+#popular-tours {
+  margin-top: 100px;
+  /* height: 300px; */
+  /* background-color: red; */
+}
+.pop img {
+  width: 100%;
+}
+.round {
+  height: 40px;
+  width: 40px;
+  background-color: green;
+  border-radius: 50%;
+}
+#card-holder {
+  margin-top: 48px;
+}
+.pop p {
+  font-size: 12px;
+  color: #717171;
+  margin-left: 8px;
+  font-weight: 400;
+}
+.pop h3 {
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.rating {
+  text-align: center !important;
+  font-weight: 400;
+  font-size: 12px;
 }
