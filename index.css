@@ -4,7 +4,7 @@
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 
-body{
+body {
   background-color: white;
 }
 
@@ -127,10 +127,27 @@ header li button {
   font-size: 40px;
   font-weight: 700;
 }
-.things-parent{
+.things-parent {
   margin-top: 40px;
 }
 
-.box-2{
+.box-2 {
   height: 350px;
+}
+
+.top-trending {
+  width: 90%;
+  padding: 40px;
+  margin-left: 5%;
+  margin-top: 88px;
+  background-color: #f5f5f5;
+}
+
+#reviews {
+  height: 60vh;
+  width: 100%;
+  background-image: url("https://s3-alpha-sig.figma.com/img/a2f5/874a/47e24d083480095ba7c5802d90d770d6?Expires=1728259200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=VBfKwc7hofdIfihCTA~WWdMCj8Jro2GlW5HotONtm~wUceeHtyCEcG~CLdYt78B4d7RmRvkdqmtNw6wIHUc02Gmv5OeebCb70mpHuHnTSgvg2Rqv1MC8-M0naO1-GuAmu~6yjBcGDHdsuPU9zT6m7eV~3kPVoPs76htC08m~VRVDImHTSxfa8pyq-3fRKuyRqNKyy~Jo9ZmXtqs21ZzZI7ZATm-2NjI8KPg9F3axgTWKaXHT3EQuOcfh3F3OZjIS-vliBtF8cRIcSRfhSW87ePSgoIU82A04erC7iY1WYDjI1H1O3bz7JwrM5jBPoN6AQzWDpDkPyHFw~jraMpMs3g__");
+  background-size: cover;
+  background-color: red;
+  background-repeat: no-repeat;
 }
