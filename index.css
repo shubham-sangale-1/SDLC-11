@@ -170,7 +170,22 @@ header li button {
   font-size: 14px;
   font-weight: 400;
 }
-#app-booking p:last-child{
+#app-booking p:last-child {
   font-size: 17px;
   font-weight: 400;
+}
+
+#articles {
+  margin-top: 100px;
+}
+#articles div div p {
+  font-size: 13px;
+  color: #05073c;
+  font-weight: 400;
+}
+
+#articles div div h3 {
+  font-size: 17px;
+  font-weight: 500;
+  color: #05073c;
 }
