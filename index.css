@@ -39,3 +39,45 @@ header li {
 header li button {
   margin-top: -4px;
 }
+
+#why-choose-us{
+  margin-top: 88px;
+  width: 80%;
+  margin-left: 10%;
+}
+#why-choose-us h3{
+  font-size: 17px;
+  font-weight: 500;
+}
+#why-choose-us p{
+  font-size: 14px;
+  font-weight: 400  ;
+}
+
+#trending{
+  width: 80%;
+  margin-left: 10%;
+  margin-top: 88px;
+}
+.col img{
+  margin-top: 10px;
+  width: 120px;
+}
+.col{
+  width: 30px;
+  margin: 5px;
+}
+
+.col h3{
+  text-align: center;
+  margin-top: 5px;
+  font-size: 15px;
+  font-weight: 500;
+  margin-left: 8px;
+}
+.col p{
+  font-size: 13px;
+  font-weight: 400;
+  text-align: center;
+  margin-left: 8px;
+}
